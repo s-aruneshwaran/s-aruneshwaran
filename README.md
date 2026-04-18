@@ -2,7 +2,7 @@
 
 🎓 **Master of Data Science** – Illinois Institute of Technology (2026)  
 📊 **Data Scientist** specializing in Machine Learning, Deep Learning, and NLP  
-📍 Based in Chicago, IL | Authorized to work under STEM OPT (starting July 2026)  
+📍 Based in Chicago, IL | Authorized to work under OPT (STEM Eligible for 3 Years) starting July 2026  
 
 ---
 
