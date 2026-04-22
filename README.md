@@ -10,9 +10,9 @@
 
 - **Programming:** Python, R, SQL  
 - **Data Science:** Machine Learning, Deep Learning, Time Series Forecasting, NLP, Computer Vision  
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV, Plotly, Seaborn  
-- **Tools:** GitHub, Power BI, Jupyter Notebook, VS Code, Streamlit, Microsoft Azure (AI-900)  
-- **Core Competencies:** ETL Pipelines, Data Validation, Predictive Modeling, Statistical Analysis  
+- **Libraries:** Pandas, NumPy, Scikit-learn, SciPy, TensorFlow, Keras, OpenCV, Plotly, Seaborn  
+- **Tools:** GitHub, Power BI, Power Query, Jupyter Notebook, VS Code, Streamlit, Microsoft Azure (AI-900)  
+- **Core Competencies:** ETL Pipelines, Data Validation, Predictive Modeling, Statistical Analysis, Credit Risk Modelling, Contract Valuation, Dynamic Programming  
 
 ---
 
